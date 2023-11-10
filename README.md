@@ -1,5 +1,5 @@
 # Linear-regression-grad-descents-
-Realization of Linear regression with implemented gradient descents such as GD, SGD, Momentum, Adam, Nadam and their regularized versions
+Realization of Linear regression with implemented gradient descents such as `GD`, `SGD`, `Momentum`, `Adam`, `Nadam` and their regularized versions
 
 For using my custom Linear Regression it's nessesary to build `descent_config` such as
 
