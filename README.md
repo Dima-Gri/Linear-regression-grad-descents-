@@ -12,6 +12,9 @@ descent_config = {
     }
 }
 ```
+
+Also I implemented such losses as MSE, MAE, LogCosh, HuberLoss
+
 Criterion of finish descent:
 1. The rate of change in scales does not change much (less than `self.tolerance`)
 2. Reached maximum number of iteraions (default `300`)
